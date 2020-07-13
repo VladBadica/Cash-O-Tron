@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1458033108 source:c:\users\vladb\desktop\informatica\pls\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<iomanip>
+
+1458076809 source:c:\users\vladb\desktop\informatica\cash-o-tron\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<iomanip>
+
+1458211334 source:c:\users\vladb\desktop\the only one\informatica\cash-o-tron\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<iomanip>
+
